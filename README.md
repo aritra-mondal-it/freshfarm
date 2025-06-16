@@ -41,8 +41,8 @@ Fresh Frame is a modern and responsive grocery ordering platform built with the 
 ### 📂 Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/fresh-frame.git
-cd fresh-frame
+git clone https://github.com/yourusername/freshfarm.git
+cd freshfarm
 ```
 
 ---
