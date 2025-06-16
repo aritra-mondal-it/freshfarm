@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import logo from "./logo.svg";   //change logo
 import search_icon from "./search_icon.svg";
 import remove_icon from "./remove_icon.svg";
 import arrow_right_icon_colored from "./arrow_right_icon_colored.svg";
@@ -20,10 +20,10 @@ import box_icon from "./box_icon.svg";
 import trust_icon from "./trust_icon.svg";
 import black_arrow_icon from "./black_arrow_icon.svg";
 import white_arrow_icon from "./white_arrow_icon.svg";
-import main_banner_bg from "./main_banner_bg.png";
-import main_banner_bg_sm from "./main_banner_bg_sm.png";
-import bottom_banner_image from "./bottom_banner_image.png";
-import bottom_banner_image_sm from "./bottom_banner_image_sm.png";
+import main_banner_bg from "./main_banner_bg.png";    //change banner
+import main_banner_bg_sm from "./main_banner_bg_sm.png";    //banner flipped
+import bottom_banner_image from "./bottom_banner_image.png";   //change banner
+import bottom_banner_image_sm from "./bottom_banner_image_sm.png";  //banner flipped
 import add_address_iamge from "./add_address_image.svg";
 import organic_vegitable_image from "./organic_vegitable_image.png";
 import fresh_fruits_image from "./fresh_fruits_image.png";
@@ -786,9 +786,9 @@ export const dummyAddress = [
   {
     _id: "67b5b9e54ea97f71bbc196a0",
     userId: "67b5880e4d09769c5ca61644",
-    firstName: "Great",
-    lastName: "Stack",
-    email: "user.greatstack@gmail.com",
+    firstName: "Aritra",
+    lastName: "Mondal",
+    email: "user@gmail.com",
     street: "Street 123",
     city: "Main City",
     state: "New State",
